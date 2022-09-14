@@ -1,6 +1,6 @@
 {
-  "name": "@truck2hand/keen-slider",
-  "version": "0.0.1",
+  "name": "@truck2hand/t2h-keen-slider",
+  "version": "0.0.2",
   "description": "The HTML touch slider carousel with the most native feeling you will get.",
   "main": "keen-slider.cjs.js",
   "jsnext:main": "keen-slider.es.js",
